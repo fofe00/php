@@ -1,1 +1,1 @@
-<?php echo 'welcome fofe dgdfgd';
+<?php echo 'welcome fofe';
