@@ -1,1 +1,1 @@
-<?php echo 'welcome ainix';
+<?php echo 'welcome fofe dgdfgd';
